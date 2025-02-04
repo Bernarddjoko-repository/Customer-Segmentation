@@ -1,4 +1,8 @@
 # Customer-Segmentation
+
+![istockphoto-921345524-612x612](https://github.com/user-attachments/assets/700bc5ff-3f58-4539-aa5c-c4a230b39889)
+
+
 A retail company wants to understand the spending
 behaviour of its customers to target them with personalized
 marketing campaigns. They have collected data on
